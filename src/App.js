@@ -4,7 +4,6 @@ import Header from './components/Header';
 import Body1 from './components/Body1';
 import Body2 from './components/Body2';
 import Body3 from './components/Body3';
-import Conten1 from './components/Conten1';
 import AllContent from './components/AllContent';
 import Footer from './components/Footer';
 

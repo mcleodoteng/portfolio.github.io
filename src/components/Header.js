@@ -3,7 +3,7 @@ import {FaGithubSquare} from 'react-icons/fa'
 import {SiFrontendmentor} from 'react-icons/si'
 import {BsLinkedin} from 'react-icons/bs'
 import {BsTwitter} from 'react-icons/bs'
-import images1 from "../assets/pot.jpg"
+import images1 from "../assets/mypic2.jpg"
 //bg-[#141414]
 const Header = () => {
   return (
